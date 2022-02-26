@@ -4,4 +4,4 @@ You can take your notes here
 
 - New Title in NewList
 
-- new Subtitles
+- new Subtitles on notes
